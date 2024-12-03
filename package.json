@@ -1,0 +1,19 @@
+{
+  "name": "hp-audiobooks-downloader",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bun index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bun-types": "^1.1.38",
+    "puppeteer-core": "^23.10.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.14"
+  }
+}
